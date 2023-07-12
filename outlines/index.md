@@ -19,3 +19,7 @@
 * Warranties
 
 ### Module 4: Secured transactions
+
+* Secured transactions
+* Creditor rights
+
